@@ -1,7 +1,9 @@
 ### Class Book 
 
 id : Integer   
+
 title :String  
+
 Author :String 
 
 Category : String (check Academic or Mystery or Novel )
@@ -14,15 +16,18 @@ numberOfPages :Integer  (min 50 pages)
 ### Class Librarian 
 
 id : Integer
-name : String     
-username :String 
+
+name : String 
+
+username :String
+
 password :String  (use pattren)
 
 email :String     (valid email) (check unique)
 
 
 
-Must use 
+### Must use 
 - Logic business 
 
 - All validation Server 
@@ -32,7 +37,7 @@ Must use
 - Controller Advise 
 
 
-end points (Book):
+### end points (Book):
 
 -All CRUD 
 
@@ -45,7 +50,7 @@ end points (Book):
 -search for book by title 
 
 
-end points (Librarian)
+### end points (Librarian)
 
 -All CRUD
 
