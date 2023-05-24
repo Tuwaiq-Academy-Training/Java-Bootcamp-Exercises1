@@ -3,8 +3,11 @@
 id : Integer   
 title :String  
 Author :String 
+
 Category : String (check Academic or Mystery or Novel )
+
 ISBN :Integer 
+
 numberOfPages :Integer  (min 50 pages)
 
 
@@ -14,6 +17,7 @@ id : Integer
 name : String     
 username :String 
 password :String  (use pattren)
+
 email :String     (valid email) (check unique)
 
 
